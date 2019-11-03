@@ -11,7 +11,7 @@ export class HeroesComponent implements OnInit {
 
   heroes = HEROES
 
-  private selectedHero: Hero;
+  selectedHero: Hero;
 
   constructor() { }
 
